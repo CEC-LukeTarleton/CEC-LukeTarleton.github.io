@@ -1,0 +1,17 @@
+body {
+        background-color: IndianRed;
+        color: black;
+        font-family:"Times New Roman", Times, serif;
+        margin: 40px;
+    }
+h1  {
+        color: seashell;
+	text-align: center;
+    }
+h2  {
+	color: beige;
+    }
+
+a   {
+	color: brown;
+    }
