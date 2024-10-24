@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LukeTarleton's_Resume</title>
+    <link rel="stylesheet" href="files\styles.css">
+</head>
+<body>
+    <h1>Luke Tarleton</h1>
+    <h2>About me</h2><div class="about"></div>
+    <h2>Skills</h2><div class="skills"></div>
+    <h2>Highlighted projects</h2><div class="projects">
+ 	<!-- Problem Statement Assignment --> 
+ <section class="project">
+ 	<a href="files\Statement.pdf"><h3>Problem Statement</h3></a>
+ 	<a href="files\Statement.pdf"><img src="images\ProblemStatement.png"></a>
+ 	<p>A compiled list of baking techniques haven't been documented in a single site.</p>
+ </section>
+	<!--Affinity Diagram Assignment -->
+<section class="project">
+	<a href="files/AffinityDiagram.pdf"><h3>Affinity Diagram</h3></a>
+	<a href="files/AffinityDiagram.pdf"><img src="images/affinityDiagram.png"></a>
+	<p>This diagram explains the plan I have for my website.</p>
+</section>
+<!--Sketches Assignment-->
+<section class="project">
+	<a href="files/pageDrawings.pdf"><h3>Sketches</h3></a>
+	<a href="files/pageDrawings.pdf"><img src="images/homePageDrawing.jpg"></a>
+	<p>
+	The sketches above are visual ideas I have for my home, table of contents, about me, and credits pages.
+	</p>
+</section>
+<!--Paper Prototype Assignment-->
+<section class="project">
+  <a href="https://youtu.be/2yVdmK_yZ0k"><h3> Prototype</h3></a>
+  <a href="https://youtu.be/2yVdmK_yZ0k"><img src="images\ProjManagement5.png"></a>
+  <p> The video above shows a simplistic recreation of how my website will look. </p>
+</section>
+</div>
+    <h2>Contact me</h2><div class="contact"></div>
+    </body>
+</html>
